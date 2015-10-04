@@ -17,7 +17,7 @@ I first fell in love with Ipython when I took a graduate course at UC Berkeley c
 #### Rendering
 Ipython is rendered in git repository too. (SUPER COOL!) If you click any .ipynb file, it will automatically detect that this is an ipython notebook and will render beautifully.
 
-However, I still encourage you to share your ipython notebook via nbviewer due to funny and cut-off layout in a git repository. You can also view the notebook through the nbviewer. If you are using *DataFrame* and prints the data table with lots of columns anywhere in your notebook, git repo will cutt it off and you have to scroll right to view it.
+However, I still encourage you to share your ipython notebook via nbviewer due to a cut-off layout in a git repository. You can also view the notebook through the nbviewer. If you are using *DataFrame* and printing a data table with lots of columns anywhere in your notebook, git repo will cut it off and you have to scroll right to view the rest of the table. You don't need to worry about any layout, cut-off or distortion issues in nbviewer.
 [JOA notebook view](http://nbviewer.ipython.org/github/graceeunbekim/JOA_job_data_analysis/blob/master/JOA_data_analysis.ipynb)
 
 # Data
