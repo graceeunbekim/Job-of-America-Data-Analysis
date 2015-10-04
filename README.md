@@ -17,10 +17,12 @@ I first fell in love with Ipython when I took a graduate course at UC Berkeley c
 #### Rendering
 Ipython is rendered in git repository too. (SUPER COOL!) If you click any .ipynb file, it will automatically detect that this is an ipython notebook and will render beautifully.
 
-You can also view the notebook through the nbviewer. 
+However, I still encourage you to share your ipython notebook via nbviewer due to funny and cut-off layout in a git repository. You can also view the notebook through the nbviewer. If you are using *DataFrame* and prints the data table with lots of columns anywhere in your notebook, git repo will cutt it off and you have to scroll right to view it.
 [JOA notebook view](http://nbviewer.ipython.org/github/graceeunbekim/JOA_job_data_analysis/blob/master/JOA_data_analysis.ipynb)
 
 # Data
 > I believe that data science is a key to succeed in building any tools. I also strongly believe that we, as a programmer, can help others by conducting analysis using tools like this and turning raw data to something meaningful, readable, and useful.
 
-I chose RESTful API from US job opening by the government. It can be found here -[Job openings](https://data.usajobs.gov).
+I chose RESTful API from US job opening by the government. It can be found here [Job openings](https://data.usajobs.gov).
+
+On a side note, go ahead and watch 'How to build a good API and why it matter' by Google Techtalks if anyone's interested in digging into this subject. [link to youtube video](https://www.youtube.com/watch?v=aAb7hSCtvGw)
