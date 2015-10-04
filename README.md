@@ -2,8 +2,11 @@
 
 ###### Author
 Grace Eunbe Kim
+
 Professional soundcloud who turned into a professional programmer
+
 Computer Science 
+
 UC BERKELEY 2014
 
 # Why Ipython ?
@@ -20,5 +23,4 @@ You can also view the notebook through the nbviewer.
 # Data
 > I believe that data science is a key to succeed in building any tools. I also strongly believe that we, as a programmer, can help others by conducting analysis using tools like this and turning raw data to something meaningful, readable, and useful.
 
-I chose a RESTful API from US job opening by the government.
-[Job openings](https://data.usajobs.gov)
+I chose RESTful API from US job opening by the government. It can be found here -[Job openings](https://data.usajobs.gov).
