@@ -34,4 +34,4 @@ https://www.youtube.com/watch?v=aAb7hSCtvGw
 ```
 
 #### Closing
-I'm interested in learning about data visualization, data science and data analysis. If anyone's interested in collaborating data analysis, using public data, to turn raw data into something meaningful and interesting, Please do not hesitant to contact me. I would be happy to discuss about spending my weekends for making something useful to our communities. 
+I'm interested in learning about data visualization, data science and data analysis. If anyone's interested in collaborating data analysis, using public data, to turn raw data into something meaningful and interesting, please do not hesitate to contact me. I would be happy to discuss about spending my weekends for making something useful to our communities. 
