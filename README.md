@@ -28,7 +28,9 @@ However, I still encourage you to share your ipython notebook via nbviewer due t
 I chose RESTful API from US job opening by the government. It can be found here [Job openings](https://data.usajobs.gov).
 
 ```
-On a side note, go ahead and watch 'How to build a good API and why it matter' by Google if anyone's interested in digging into this subject. [link to youtube video](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+On a side note, go ahead and watch 'How to build a good API and why it matter' by Google
+if anyone's interested in digging into this subject. 
+https://www.youtube.com/watch?v=aAb7hSCtvGw
 ```
 
 #### Closing
