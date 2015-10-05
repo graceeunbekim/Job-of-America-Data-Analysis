@@ -1,7 +1,9 @@
-# US Computer Engineering Job Data Analysis
+# Job of America Data Analysis
 
 ###### Author
 Grace Eunbe Kim
+
+eunbegracekim40@gamil.com
 
 Professional soundcloud who turned into a professional programmer
 
@@ -25,4 +27,9 @@ However, I still encourage you to share your ipython notebook via nbviewer due t
 
 I chose RESTful API from US job opening by the government. It can be found here [Job openings](https://data.usajobs.gov).
 
-On a side note, go ahead and watch 'How to build a good API and why it matter' by Google Techtalks if anyone's interested in digging into this subject. [link to youtube video](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+```
+On a side note, go ahead and watch 'How to build a good API and why it matter' by Google if anyone's interested in digging into this subject. [link to youtube video](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+```
+
+#### Closing
+I'm interested in learning about data visualization, data science and data analysis. If anyone's interested in collaborating data analysis, using public data, to turn raw data into something meaningful and interesting, Please do not hesitant to contact me. I would be happy to discuss about spending my weekends for making something useful to our communities. 
