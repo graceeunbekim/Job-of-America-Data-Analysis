@@ -5,8 +5,6 @@ Grace Eunbe Kim
 
 eunbegracekim40@gamil.com
 
-Professional soundcloud who turned into a professional programmer
-
 Computer Science 
 
 UC BERKELEY 2014
